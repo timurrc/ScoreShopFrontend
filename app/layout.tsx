@@ -3,8 +3,7 @@ import "./globals.css";
 import localFont from "next/font/local";
 
 export const metadata: Metadata = {
-  title: "ScoreShop",
-  description: "ScoreShop Frontend Application",
+  title: "Вике от Деда Мороза",
 };
 
 const interDisplay = localFont({
